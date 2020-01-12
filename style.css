@@ -1,0 +1,7 @@
+body {
+    background-image: url(/home/josh/Projects/Art_Website/background_image.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+  }
