@@ -19,6 +19,9 @@ color: white;
 font-size: 125px;
 font-family: 'Times New Roman', Times, serif;
 padding-top: 450px;
+transform: rotate(10deg);
+width: max-content;
+padding-left: 350px;
  }
  .main-description {
 color: white;
